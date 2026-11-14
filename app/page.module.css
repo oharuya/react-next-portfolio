@@ -21,6 +21,7 @@
   margin: 1rem 0 0;
   color: var(--color-muted);
   font-size: 1.025rem;
+  line-height: 2.2;
 }
 
 .pageLinks {
