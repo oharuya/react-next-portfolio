@@ -4,7 +4,7 @@ export const samplePosts: Post[] = [
   {
     id: "first-post",
     slug: "first-post",
-    title: "ポートフォリオ制作を始めました",
+    title: "今日の学習記録",
     description:
       "Next.jsの雛形を起動し、これから制作するサイトの目的を整理しました。",
     content: [

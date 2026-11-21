@@ -4,7 +4,7 @@ export const profile = {
   introduction:
     "HTML、CSS、JavaScript、Reactを学びながら、使う人に伝わるWebサイトを制作しています。",
   location: "京都",
-  skills: ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
+  skills: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js","Git","Python"],
   learningGoals: [
     "Webサイトの目的に合わせて情報を設計する",
     "ReactとNext.jsの役割の違いを説明する",

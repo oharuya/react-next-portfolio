@@ -7,7 +7,7 @@ export function SiteFooter() {
     <footer className={styles.footer}>
       <Container className={styles.inner}>
         <p>
-          © {new Date().getFullYear()} {profile.name}
+          © {new Date().getFullYear()} {profile.name} ｜ 制作と学習の記録
         </p>
       </Container>
     </footer>
